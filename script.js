@@ -35,7 +35,7 @@ function gradeMe() {
         songExcellent.play()
     }
     else{
-        J.value = "Not recognised"
+        sala.value = "Not recognised"
     }
 
 }
