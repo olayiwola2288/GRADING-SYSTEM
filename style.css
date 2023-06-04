@@ -18,7 +18,9 @@ body{
 }
 @media screen and (max-width:500px){
     #section{
-        margin: 50px 50px 0 50px !important;
+        /* margin: 50px 100px 0 100px !important; */
         border-radius: 20px;
+        margin: 0px !important;
+        padding: 50px !important;
     }
 }
